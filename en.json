@@ -1,10 +1,10 @@
 {
     "Common": {
-        "tab_staking": "Staking Testing 2",
-        "tab_history": "History Testing 2",
-        "label_profile": "Profile Testing 2",
-        "label_whitepaper": "Whitepaper Testing 2",
-        "label_qr_code": "QR code Testing 2"
+        "tab_staking": "Staking Testing 3",
+        "tab_history": "History Testing 3",
+        "label_profile": "Profile Testing 3",
+        "label_whitepaper": "Whitepaper Testing 3",
+        "label_qr_code": "QR code Testing 3"
     },
     "Staking": {
         "label_period": "Period",
