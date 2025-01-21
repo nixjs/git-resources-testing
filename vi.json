@@ -1,1 +1,33 @@
-{"Common":{"tab_staking":"Staking 22","tab_history":"History","label_profile":"Profile","label_whitepaper":"Whitepaper","label_qr_code":"QR code"},"Staking":{"label_period":"Period","label_days":"days","label_interest":"interest","label_staked_amount":"Pay with {currencySymbol}","label_reward_amount":"{currencySymbol} You receive","label_balance":"{currencySymbol} balance","label_interest_amount":"Interest amount","button_connect":"Connect Wallet","button_invalid_network":"Wrong network","button_stake":"Stake now","button_processing":"Processing","button_claim":"Claim"},"History":{"msg_info_history_empty":"No data","msg_info_history_loading":"Loading","label_date":"Date","label_type":"Type","label_amount":"Amount","label_deposit":"Deposit","label_withdraw":"Withdraw","label_reward":"Reward"}}
+{
+    "Common": {
+        "tab_staking": "Staking",
+        "tab_history": "Lịch sử",
+        "label_profile": "Hồ sơ",
+        "label_whitepaper": "Whitepaper",
+        "label_qr_code": "Mã QR"
+    },
+    "Staking": {
+        "label_period": "Period",
+        "label_days": "ngày",
+        "label_interest": "lãi",
+        "label_staked_amount": "Pay with {currencySymbol}",
+        "label_reward_amount": "{currencySymbol} You receive",
+        "label_balance": "{currencySymbol} balance",
+        "label_interest_amount": "Số lãi",
+        "button_connect": "Kết nối ví",
+        "button_invalid_network": "Mạng không hỗ trợ",
+        "button_stake": "Stake now",
+        "button_processing": "Đang xử lý",
+        "button_claim": "Claim"
+    },
+    "History": {
+        "msg_info_history_empty": "Không có dữ liệu",
+        "msg_info_history_loading": "Đang tải dữ liệu",
+        "label_date": "Thời gian",
+        "label_type": "Loại",
+        "label_amount": "Số lượng",
+        "label_deposit": "Nạp tiền",
+        "label_withdraw": "Rút tiền",
+        "label_reward": "Thưởng"
+    }
+}
